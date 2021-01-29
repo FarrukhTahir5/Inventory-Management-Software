@@ -1,0 +1,8 @@
+PID   	Category	Product		Quantity   	Buy Price   	Sell Price   
+0	Food		Ketchup		10		50		65
+1	Food		Noodles		100		20		25
+2	Food		Mayo		23		50		65
+3	Juice		Nestle		23		34		43.4
+4	123		32		21		1		2
+5	8743		34345		345		345		345
+6	123		123		123		123		123

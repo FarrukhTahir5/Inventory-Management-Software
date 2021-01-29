@@ -1,0 +1,4 @@
+PID   	Category	Product		Quantity   	Buy Price   	Sell Price   
+0	123		123		123		123		123
+1	123		123		123		123		123
+2	2		2		2		2		2
